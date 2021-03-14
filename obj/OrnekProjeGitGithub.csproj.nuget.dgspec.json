@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kadir\\Desktop\\GitGitHub\\OrnekProjeGitGithub\\OrnekProjeGitGithub.csproj": {}
+    "C:\\Users\\Kadir\\Desktop\\GitGitHub\\gitRepo\\OrnekProjeGitGithub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kadir\\Desktop\\GitGitHub\\OrnekProjeGitGithub\\OrnekProjeGitGithub.csproj": {
+    "C:\\Users\\Kadir\\Desktop\\GitGitHub\\gitRepo\\OrnekProjeGitGithub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kadir\\Desktop\\GitGitHub\\OrnekProjeGitGithub\\OrnekProjeGitGithub.csproj",
+        "projectUniqueName": "C:\\Users\\Kadir\\Desktop\\GitGitHub\\gitRepo\\OrnekProjeGitGithub.csproj",
         "projectName": "OrnekProjeGitGithub",
-        "projectPath": "C:\\Users\\Kadir\\Desktop\\GitGitHub\\OrnekProjeGitGithub\\OrnekProjeGitGithub.csproj",
+        "projectPath": "C:\\Users\\Kadir\\Desktop\\GitGitHub\\gitRepo\\OrnekProjeGitGithub.csproj",
         "packagesPath": "C:\\Users\\Kadir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kadir\\Desktop\\GitGitHub\\OrnekProjeGitGithub\\obj\\",
+        "outputPath": "C:\\Users\\Kadir\\Desktop\\GitGitHub\\gitRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

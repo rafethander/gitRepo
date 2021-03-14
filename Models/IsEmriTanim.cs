@@ -10,6 +10,7 @@ namespace OrnekProjeGitGithub.Models
         public int Id { get; set; }
         public string IsEmriNo { get; set; }
         public DateTime KayitZamani { get; set; }
+        public int Miktar { get; set; }
 
     }
 }

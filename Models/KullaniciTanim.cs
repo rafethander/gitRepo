@@ -10,6 +10,6 @@ namespace OrnekProjeGitGithub.Models
         public int KullaniciId { get; set; }
         public string AdiSoyadi { get; set; }
         
-             public string Soyadi { get; set; }
+             public string TCNo { get; set; }
     }
 }

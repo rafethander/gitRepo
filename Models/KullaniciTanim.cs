@@ -11,5 +11,7 @@ namespace OrnekProjeGitGithub.Models
         public string AdiSoyadi { get; set; }
         
              public string TcNo { get; set; }
+        
+        //rafet
     }
 }

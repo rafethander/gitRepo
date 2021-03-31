@@ -9,5 +9,9 @@ namespace OrnekProjeGitGithub.Models
     {
         public int KullaniciId { get; set; }
         public string AdiSoyadi { get; set; }
+        
+             public string TcNo { get; set; }
+        
+        //rafet
     }
 }
